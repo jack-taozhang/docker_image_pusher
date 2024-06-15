@@ -1,1 +1,1 @@
-redis
+	nextcloud:29
